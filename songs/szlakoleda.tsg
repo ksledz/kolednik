@@ -1,0 +1,47 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Szła Kolęda}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{A7}{0100}
+  \gtab{Dm}{2210}
+  \gtab{G7}{0212}
+  \gtab{C7}{0001}
+  \gtab{Fm}{1013}
+  \gtab{F#7}{3424}
+
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Szła kolęda \[A7]w noc grudniową,\[Dm]pukała do \[G7]drzwi
+    \[Dm]i wołała, \[G7]żeby ludzie \[C]do stajenki szli.
+    \[C]Dziecko małe, maluteńkie \[C7]przyszło na ten \[F]świat,
+    \[Fm]a w stajence \[C]ściany \[A7]cienkie \[Dm]i dziu\[Gm]rawy \[C]dach\[C7].
+  \end{verse}
+
+  \begin{chorus}
+    \[F]Urodziła \[Fm]Matka Boska \[C]Synka w mroźny wieczór 
+    \[G7]co tu robić, co tu robić, \[Dm]żeby \[G7]zimna \[C]nie czuł\[C7]?
+    \[F]co tu \[Fm]robić, \[C]co tu \[A7]robić, \[Dm]żeby \[G7]zimna \[C]nie czuł?
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Zatroskała się kolęda, że tu taki mróz
+      trzeba prędko okryć Dziecko – najcieplejszą z chust.
+      Zimno Dziecku, zimno Matce, obydwoje drżą -
+      hej, kolędo, hej, kolędo, prowadź ich w nasz dom!
+    \end{verse}
+
+    \begin{verse}
+      Uśmiechnęła się kolęda, a my razem z nią -
+      Matka Boska i Dzieciątko – będą mieli dom!
+      Wejdą razem z tą kolędą w nasz rodzinny krąg
+      i już nigdy, i już nigdy – nie odejdą stąd.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

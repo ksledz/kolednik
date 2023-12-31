@@ -1,0 +1,44 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Dzisiaj w Betlejem}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{G}{0232}
+  \gtab{D}{2220}
+
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[G]Dzisiaj w Betlejem, dzisiaj w Betlejem
+    Wesoła \[C]no\[G]wi\[D]na
+    \[G]Że panna czysta, że panna czysta
+    Porodzi\[C]ła \[G]sy\[D]na
+  \end{verse}
+
+  \begin{chorus}
+    \[D]Chrystus się rodzi, \[G]nas oswobodzi
+    \[D]nieli grają, \[G]króle witają
+    \[G]Pasterze śpiewają, bydlęta klękają
+    Cuda, \[C]cu\[G]da \[C]o\[G]gła\[D]sza\[G]ją.
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Maryja Panna, Maryja Panna
+      Dzieciątko piastuje,
+      i Józef stary, i Józef stary,
+      Ono pielęgnuje.
+    \end{verse}
+
+    \begin{verse}
+      Choć w stajeneczce, choć w stajeneczce
+      Panna syna rodzi,
+      Przecież On wkrótce, przecież On wkrótce,
+      ludzi oswobodzi.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

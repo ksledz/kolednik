@@ -1,0 +1,35 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Pójdźmy wszyscy}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{D}{2220}
+  \gtab{A}{2100}
+  \gtab{A7}{0100}
+  \gtab{Em}{0432}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    P\[G]ójdźmy wszyscy do stajenki,
+    do Jezusa i Panienki
+    p\[Am]owit\[D]ajmy M\[G]aleńkie\[Em]go
+    \[D]i Maryję, M\[G]atkę \[G7]Jego.
+    P\[Am]owit\[D]ajmy, M\[G]aleńkie\[Em]go
+    \[D]i Maryję M\[C]atkę J\[G]ego.
+  \end{verse}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Cy nie lepiej Tobieby, Tobieby, siedzieć było w niebie.
+      Wsak Twój Tatuś kochany, kochany, nie wyganiał Ciebie.
+    \end{verse}
+
+    \begin{verse}
+      Tam Ci zawsze słuzyły, słuzyły prześlicne janioły.
+      A tu lezys sam jeden, sam jeden jako palec goły.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

@@ -1,0 +1,42 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Przylecieli Aniolkowie}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{G7}{0212}
+  \gtab{G}{0232}
+  \gtab{F}{0200}
+
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Przylecieli \[G7]aniołkowie \[C]jak ptaszkowie z nieba. 
+    \[C]I śpiewali \[G]Dzieciąteczku \[C]wesoło jak trzeba.
+  \end{verse}
+
+  \begin{chorus}
+    \[G7]Hojże, hojże, \[C]Panie Jezu, \[G7]hojże, hojże, \[F]hoc, \[C]hoc,
+    \[G7]Chodziliśmy, \[C]budziliśmy \[G7]pastuszków \[C]całą noc.
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Powiadają niesłychaną na świecie nowinę.
+      Panna w całości panieństwa zrodziła Dziecinę.
+    \end{verse}
+
+    \begin{verse}
+      Syna Boga przedwiecznego, pasterze wstawajcie,
+      Do Betlejem nie zwlekając, witać Go biegajcie.
+    \end{verse}
+
+    \begin{verse}
+      Śpiewaliśmy i gloryja, głosząc przyjście Twoje,
+      Pokój ludziom, kiedy odkrył Bóg naturę swoją.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

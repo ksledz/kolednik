@@ -1,0 +1,34 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Oj maluśki}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{D}{2220}
+  \gtab{A}{2100}
+  \gtab{A7}{0100}
+  \gtab{Em}{0432}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    Oj Mal\[D]uśki, Maluśki, Maluśki jako ręka\[A]wicka,
+    \[A]Albo\[Em]li tyz jakoby, jakoby \[A]kawołecek \[D]smycka.
+  \end{verse}
+  \begin{chorus}
+    \[D]Śpiewajcie i grajcie Mu, małe\[A7]mu, małe\[D]mu. x2
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Cy nie lepiej Tobieby, Tobieby, siedzieć było w niebie.
+      Wsak Twój Tatuś kochany, kochany, nie wyganiał Ciebie.
+    \end{verse}
+
+    \begin{verse}
+      Tam Ci zawsze słuzyły, słuzyły prześlicne janioły.
+      A tu lezys sam jeden, sam jeden jako palec goły.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

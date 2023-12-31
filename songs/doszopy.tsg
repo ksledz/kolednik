@@ -1,0 +1,47 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Do szopy hej pasterze}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{G}{0232}
+  \gtab{Am}{0200}
+  \gtab{Dm}{2210}
+  \gtab{Gm}{0231}
+  \gtab{G7}{0212}
+
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Do szopy, \[G]hej pasterze,
+    \[G7]Do Szopy, \[C]bo tam cud!
+    \[C]Syn Boży \[G]w żłobie leży,
+    \[G7]by zbawić \[C]ludzki ród.
+  \end{verse}
+
+  \begin{chorus}
+    \[Am]Śpiewajcie \[Dm]Aniołowie,
+    \[G]pasterze, \[C]grajcie Mu.
+    \[Am]Kłaniajcie \[Gm]się Królowie,
+    \[G]nie budźcie \[C]Go ze snu.
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Ten Bóg przedwiecznej chwały,
+      Bóg godzien wszelkiej czci,
+      patrz w szopie tej zbutwiałej,
+      jak słodko On tu śpi!
+    \end{verse}
+
+    \begin{verse}
+      Padnijmy na kolana,
+      to Dziecię, to nasz Bóg,
+      uczcijmy niebios Pana,
+      miłości złóżmy dług.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

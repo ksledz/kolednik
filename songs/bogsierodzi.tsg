@@ -1,0 +1,47 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Bóg się rodzi}
+  [by={Franciszek Karpiński}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{F}{2010}
+  \gtab{G7}{2120}
+  \gtab{A7}{0100}
+  \gtab{Dm}{2210}
+
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Bóg się rodzi, \[F]moc truchleje, \[C]Pan niebiosów obnaż\[G7]ony;
+    \[C]ogień krzepnie, \[F]blask ciemnieje, \[C]ma granice Nieskończ\[G7]ony.
+    Wzg\[G7]ardzony – okr\[C]yty chwałą, śm\[G7]iertelny – Król \[C]nad wiekami;
+    \[G7]a Słowo Ciał\[C]em się sta\[A7]ło \[Dm]i mieszkało mi\[G7]ędzy nam\[C]i.
+  \end{verse}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Cóż masz, niebo, nad ziemiany? Bóg porzucił szczęście twoje;
+      wszedł między lud ukochany dzieląc z nim trudy i znoje.
+      Niemało cierpiał, niemało, żeśmy byli winni sami,
+      a Słowo Ciałem się stało
+      i mieszkało między nami!Chcąc się dowiedzieć tego 
+    \end{verse}
+
+    \begin{verse}
+      W nędznej szopie urodzony, żłób Mu za kolebkę dano.
+      Cóż jest, czym był otoczony? Bydło, pasterze i siano.
+      Ubodzy! Was to spotkało, witać Go przed bogaczami.
+      a Słowo Ciałem się stało i mieszkało między nami!
+    \end{verse}
+
+    \begin{verse}
+      Podnieś rękę, Boże Dziecię, błogosław ojczyznę miłą,
+      w dobrych radach, w dobrym bycie, wspieraj jej siłę swą siłą,
+      dom nasz i majętność całą, i Twoje wioski z miastami.
+      a Słowo Ciałem się stało i mieszkało między nami!
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

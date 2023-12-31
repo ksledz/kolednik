@@ -1,0 +1,36 @@
+book:
+  lang: en
+  encoding: utf8
+  template: patacrep.tex
+  datadir: "."
+  pictures: yes
+  onesongperpage: no
+
+chords:
+  show: yes
+  diagramreminder: all
+  repeatchords: yes
+  instrument: ukulele
+
+authors:
+  separators:
+    - "and"
+content:
+    - sort:
+
+template:
+  default.tex:
+    title: "Kolędy na ukulele"
+    author: "Yavien"
+  patacrep.tex:
+    url: "https://yavien.neocities.org"
+    email: ""
+    picture: "img/turon.jpg"
+    picturecopyright: "Public Domain (\\url{https://commons.wikimedia.org/wiki/File:Chodzenie-z-turoniem_pocztowka.jpg})"
+    color:
+      songlink: FF0000
+      hyperlink: 0000FF
+    bgcolor:
+      note: D1E4AE
+      songnumber: AED1E4
+      index: E4AED1 #not enough songs to see it

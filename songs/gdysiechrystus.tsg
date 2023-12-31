@@ -1,0 +1,39 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Gdy się Chrystus rodzi}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{G}{0232}
+  \gtab{F}{2010}
+  \gtab{G7}{0212}
+  \gtab{Am}{2000}
+  \gtab{Dm}{2210}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Gdy się \[F]Chrystus \[C]rodzi \[Am]i na \[Dm]świat przy\[G7]cho\[C]dzi,
+    \[C]ciemna \[F]noc w jas\[C]nościach \[Am]promie\[Dm]nistych \[G7]bro\[C]dzi.
+    \[G]Aniołowie \[C]się radują, \[G]pod niebiosa \[C]wyśpiewują:|
+    \[C]Gloria, \[F]gloria, \[G7]gloria \[C]in ex\[F]celsis \[C]De-\[G7]e-\[C]o!
+  \end{verse}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Mówią do pasterzy, którzy trzód swych strzegli, 
+      Aby do Betlejem czym prędzej pobiegli, 
+      Bo się narodził Zbawiciel, wszego świata Odkupiciel. 
+      Gloria, Gloria, Gloria…
+    \end{verse}
+
+    \begin{verse}
+      O niebieskie duchy i posłowie nieba, 
+      Powiedzcież wyraźniej, co nam czynić trzeba, 
+      Bo my nic nie pojmujemy, ledwo od strachu żyjemy. 
+      Gloria, Gloria, Gloria…
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

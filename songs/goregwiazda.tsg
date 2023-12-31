@@ -1,0 +1,45 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Gore gwiazda Jezusowi}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{G}{0232}
+  \gtab{G7}{0212}
+  \gtab{Am}{2000}
+  \gtab{Dm}{2210}
+  \gtab{E}{1402}
+  \gtab{E}{4441}
+  \gtab{E7}{1202}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C] \[G] \[C] \[G7] \[E] \[E7] \[Am]x2
+    Go\[Am]re gwiozda Jezu\[C]sowi w łobło\[Dm]ku, w łobłoku\[E],  \[E]   
+    Jó\[Am]zef z Panną as\[C]ystują przy b\[Dm]oku, przy boku\[E]. \[E]   
+  \end{verse}
+  \begin{chorus}
+    He\[C]jze ino dyn\[G]a, dyna, narod\[C]ził się Bóg dz\[G7]iecina
+    w Be\[E]tlejem, w Bet\[E7]lejem  \[Am] \[Dm]
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Wół i osioł w parze służą przy żłobie, przy żłobie,
+      Huczą, buczą delikatnej osobie, osobie.
+    \end{verse}
+
+    \begin{verse}
+      Pastuszkowie z podarunki przybiegli, przybiegli,
+      Wkoło szopę o północy obiegli, obiegli.
+    \end{verse}
+
+    \begin{verse}
+      Anioł Pański, sam ogłosił te dziwy, te dziwy,
+      Których oni nie słyszeli jak żywi, jak żywi.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

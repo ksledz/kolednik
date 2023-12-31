@@ -1,0 +1,37 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Lulajże Jezuniu}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{G}{0232}
+  \gtab{G7}{0212}
+  \gtab{Am}{2000}
+  \gtab{Dm}{2210}
+  \gtab{A}{2100}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Lulajże \[Dm]Jezuniu, \[G7]moja Pe\[C]rełko,
+    \[Am]Lulaj u\[Dm]lubione \[G7]me Pieści\[C]dełko.
+  \end{verse}
+  \begin{chorus}
+    \[C]Lulajże \[F]Jezuniu, \[G7]lulajże \[C]lulaj
+    \[Am]A ty Go \[Dm]Matulu w \[G7]płaczu u\[C]tulaj.
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Zamknijże zmrużone płaczem powieczki,
+      utulże zemdlone łkaniem wardżeczki.
+    \end{verse}
+
+    \begin{verse}
+      Lulajże piękniuchny mój Aniołeczku,
+      lulajże wdzięczniuchny świata kwiateczku.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

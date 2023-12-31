@@ -1,0 +1,38 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Gdy Śliczna Panna}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{G}{0232}
+  \gtab{F}{2010}
+  \gtab{Am}{2000}
+  \gtab{Dm}{2210}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Gdy śliczna \[F]Panna \[G]Syna kołysa\[C]ła,
+    \[C]Z wielkim wes\[F]elem \[G]tak Jemu śpiewa\[C]ła.
+    \[Am]Li li \[Dm]li li\[G] laj, moje Dzieci\[F]ąte\[C]czko
+    \[Am]Li li \[Dm]li li laj, \[Am]śliczne \[F]Paniąte\[G]czCko
+  \end{verse}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Wszystko stworzenie, śpiewaj Panu swemu,
+      Pomóż radości wielkiej sercu memu.
+      Li li li li laj, wielki królewicu,
+      Li li li li laj, niebieski dziedzicu.
+    \end{verse}
+
+    \begin{verse}
+      Sypcie się z nieba liczni Aniołowie,
+      Śpiewajcie Panu niebiescy duchowie.
+      Li li li li laj, mój wonny kwiateczku,
+      Li li li li laj, w ubogim żłóbeczku.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

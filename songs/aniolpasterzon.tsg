@@ -1,0 +1,43 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Anioł Pasterzom Mowił}
+  [by={Tradycyjna}]
+
+  \cover
+  \gtab{C}{0003}
+  \gtab{G}{0232}
+  \gtab{F}{2010}
+  \gtab{D}{2220}
+  \gtab{Am}{0200}
+  \gtab{Dm}{2210}
+
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Anioł \[G]paste\[C]rzom \[G]mó\[C]wił:
+    \[C]Chrystus \[F]się wam \[D]naro\[G]dził
+    \[C]W Betle\[F]jem, \[C]nie barddzo po\[C]dłym mie\[G]ście,
+    \[C]Naro\[Dm]dził się w \[Am]ubós\[G]twie
+    \[C]Pan \[Am]wszedgo \[G]stworze\[C]nia.
+  \end{verse}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Chcąc się dowiedzieć tego 
+      poselstwa wesołego,
+      Bieżeli do Betlejem skwapliwie,
+      Znaleźli Dziecię w żłobie, 
+      Maryję z Józefem.
+    \end{verse}
+
+    \begin{verse}
+      Taki Pan chwały wielkiej 
+      uniżył się wysoki,
+      Pałacu kosztownego żadnego
+      Nie miał zbudowanego, 
+      Pan wszego stworzenia. 
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong
