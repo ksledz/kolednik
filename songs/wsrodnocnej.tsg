@@ -1,0 +1,50 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Wśród nocnej ciszy}
+  [by={Tradycyjna}]
+
+  \cover
+  \utab{C}{0003}
+  \utab{G}{0232}
+  \utab{G7}{0212}
+  \utab{Dm7}{2213}
+  \utab{Am}{0200}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[C]Wśród \[G7]nocnej \[C]ci\[G]szy \[C]głos się \[G7]rozcho\[C]dzi\[G] 
+    \[C]Wstań\[G7]cie, pas\[C]te\[G]rze, \[C]Bóg się \[G7]wam ro\[C]dzi!\[G] 
+    \[C]Czym prędzej się \[Dm7]wybi\[G]erajcie,
+    \[C]Do Betlejem \[Dm7]pos\[G]pieszajcie
+    \[C]Przywi\[G7]tać Pa\[Am]na.           
+    \[C]Przywi\[G]tać Pa\[C]na.            
+  \end{verse}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Poszli, znaleźli Dzieciątko w żłobie,
+      Z wszystkimi znaki danymi sobie.
+      Jako Bogu cześć Mu dali,
+      A witając zawołali,
+      Z wielkiej radości.
+    \end{verse}
+
+    \begin{verse}
+      Ach, witaj Zbawco z dawna żądany,
+      Cztery tysiące lat wyglądany.
+      Na Ciebie króle, prorocy,
+      Czekali, a Tyś tej nocy,
+      Nam się objawił.
+    \end{verse}
+
+    \begin{verse}
+      I my czekamy na Ciebie, Pana,
+      A skoro przyjdziesz na głos kapłana.
+      Padniemy na twarz przed Tobą,
+      Wierząc, żeś jest pod osłoną,
+      Chleba i wina.
+    \end{verse}
+
+  \end{repeatedchords}
+
+\endsong

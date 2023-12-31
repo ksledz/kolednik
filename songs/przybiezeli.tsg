@@ -1,0 +1,56 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Przybieżeli do Betlejem}
+  [by={Tradycyjna}]
+
+  \cover
+  \utab{D}{2220}
+  \utab{G}{0232}
+  \utab{A}{2100}
+  \utab{B7}{2322}
+  \utab{B7}{4320}
+  \utab{Em}{0432}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[D]Przybieżeli \[D]do Betlejem \[D]pas\[G]ter\[D]ze,
+    \[D]Grając skocznie \[D]Dzieciąteczku \[D]na \[G]lir\[D]ze.
+  \end{verse}
+  \begin{chorus}
+    \[D]Chwała na \[B7]wysokości, \[Em] chwała na \[A7]wysokości,
+    \[D]A  \[G]po\[D]kój  \[D]na \[A]zie\[D]mi.
+  \end{chorus}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Oddawali swe ukłony w pokorze
+      Tobie z serca ochotnego o Boże.
+    \end{verse}
+
+    \begin{verse}
+      Anioł Pański sam ogłosił te dziwy
+      Których oni nie słyszeli jak żywi.
+    \end{verse}
+
+    \begin{verse}
+      Dziwili się napowietrznej muzyce
+      i myśleli co to będzie za Dziecię?
+    \end{verse}
+
+    \begin{verse}
+      Oto mu się wół i osioł kłaniają
+      Trzej królowie podarunki oddają
+    \end{verse}
+
+    \begin{verse}
+      I anieli gromadami pilnują
+      Panna czysta wraz z Józefem piastują
+    \end{verse}
+
+    \begin{verse}
+      My go także Bogiem, Zbawcą już znamy
+      I z całego serca wszystko kochamy
+    \end{verse}
+  \end{repeatedchords}
+
+\endsong

@@ -4,11 +4,11 @@
   [by={Franciszek Karpiński}]
 
   \cover
-  \gtab{C}{0003}
-  \gtab{F}{2010}
-  \gtab{G7}{2120}
-  \gtab{A7}{0100}
-  \gtab{Dm}{2210}
+  \utab{C}{0003}
+  \utab{F}{2010}
+  \utab{G7}{2120}
+  \utab{A7}{0100}
+  \utab{Dm}{2210}
 
   \lilypond{greensleeves}
 
@@ -22,10 +22,9 @@
   \begin{repeatedchords}
     \begin{verse}
       Cóż masz, niebo, nad ziemiany? Bóg porzucił szczęście twoje;
-      wszedł między lud ukochany dzieląc z nim trudy i znoje.
+      wszedł między lud ukochany, dzieląc z nim trudy i znoje.
       Niemało cierpiał, niemało, żeśmy byli winni sami,
-      a Słowo Ciałem się stało
-      i mieszkało między nami!Chcąc się dowiedzieć tego 
+      a Słowo Ciałem się stało i mieszkało między nami! 
     \end{verse}
 
     \begin{verse}

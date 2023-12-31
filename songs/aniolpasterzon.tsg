@@ -4,12 +4,12 @@
   [by={Tradycyjna}]
 
   \cover
-  \gtab{C}{0003}
-  \gtab{G}{0232}
-  \gtab{F}{2010}
-  \gtab{D}{2220}
-  \gtab{Am}{0200}
-  \gtab{Dm}{2210}
+  \utab{C}{0003}
+  \utab{G}{0232}
+  \utab{F}{2010}
+  \utab{D}{2220}
+  \utab{Am}{0200}
+  \utab{Dm}{2210}
 
   \lilypond{greensleeves}
 

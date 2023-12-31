@@ -1,0 +1,55 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Cicha noc}
+  [by={Franz Xaver Gruber}]
+
+  \cover
+  \utab{C}{0003}
+  \utab{G}{0232}
+  \utab{G7}{0212}
+  \utab{D}{2220}
+  \utab{D7}{2223}
+  \utab{Am7}{0000}
+  \utab{Em}{0432}
+  \lilypond{greensleeves}
+
+  \begin{verse}
+    \[G]Cicha noc, święta noc,
+    \[D]Pokój \[D7]niesie \[G]ludziom \[G7]wszem.
+    \[C]A u \[Am7]żłóbka \[G]Matka Święta,
+    \[C]Czuwa \[Am7]sama \[G]uśmiechnięta.
+    \[D]Nad Dzie\[D7]ciątka \[G]sne-\[Em]em,
+    \[G]Nad Dzie\[D]ciątka \[G]snem.
+  \end{verse}
+
+  \begin{repeatedchords}
+    \begin{verse}
+      Cicha noc, święta noc,
+      Pastuszkowie od swych trzód
+      Biegną wielce zadziwieni,
+      Za anielskim głosem pieni,
+      Gdzie się spełnił cu-ud,
+      Gdzie się spełnił cud.
+
+    \end{verse}
+    \begin{verse}
+      Cicha noc, święta noc,
+      Narodzony Boży Syn.
+      Pan Wielkiego Majestatu,
+      Niesie dziś całemu światu,
+      Odkupienie wi-in,
+      Odkupienie win.
+
+    \end{verse}
+    \begin{verse}
+      Cicha noc, święta noc,
+      Jakiż w Tobie dzisiaj cud,
+      W Betlejem dziecina święta
+      Wznosi w górę swe rączęta
+      Błogosławi lu-ud
+      Błogosławi lud.
+
+    \end{verse}
+  \end{repeatedchords}
+
+\endsong

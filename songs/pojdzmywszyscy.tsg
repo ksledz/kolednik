@@ -4,10 +4,11 @@
   [by={Tradycyjna}]
 
   \cover
-  \gtab{D}{2220}
-  \gtab{A}{2100}
-  \gtab{A7}{0100}
-  \gtab{Em}{0432}
+  \utab{G}{0232}
+  \utab{D}{2220}
+  \utab{Am}{0200}
+  \utab{G7}{0212}
+  \utab{Em}{0432}
   \lilypond{greensleeves}
 
   \begin{verse}
@@ -21,13 +22,17 @@
 
   \begin{repeatedchords}
     \begin{verse}
-      Cy nie lepiej Tobieby, Tobieby, siedzieć było w niebie.
-      Wsak Twój Tatuś kochany, kochany, nie wyganiał Ciebie.
+      Witaj Jezu ukochany,
+      od Patryarchów czekany.
+      Od Proroków ogłoszony,
+      od narodów upragniony.
     \end{verse}
 
     \begin{verse}
-      Tam Ci zawsze słuzyły, słuzyły prześlicne janioły.
-      A tu lezys sam jeden, sam jeden jako palec goły.
+      Witaj dziecineczko w żłobie,
+      wyznajemy Boga w tobie.
+      Coś się narodził tej nocy,
+      byś nas wyrwał z czarta mocy.
     \end{verse}
 
   \end{repeatedchords}
